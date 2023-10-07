@@ -1,4 +1,4 @@
-package com.example.demo.Entity;
+package geektextapp.Entity;
 
 import jakarta.persistence.*;
 

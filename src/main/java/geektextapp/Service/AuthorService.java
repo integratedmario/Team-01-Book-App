@@ -1,7 +1,7 @@
-package com.example.demo.Service;
+package geektextapp.Service;
 
-import com.example.demo.Repository.AuthorRepo;
-import com.example.demo.Entity.Author;
+import geektextapp.Repository.AuthorRepo;
+import geektextapp.Entity.Author;
 import org.springframework.stereotype.Service;
 import org.springframework.beans.factory.annotation.Autowired;
 
